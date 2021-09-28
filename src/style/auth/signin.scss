@@ -6,3 +6,9 @@
         color: #333333;
     }
 }
+
+.sign-in-form {
+    &__line {
+        border-top: 1px solid #ccc;
+    }
+}
